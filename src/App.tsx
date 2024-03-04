@@ -1,8 +1,8 @@
 import { ReactFlowProvider } from 'reactflow';
 import 'reactflow/dist/style.css';
 
-import 'reactflow/dist/style.css';
 import LayoutFlow from './components/LayoutFlow';
+import './styles.css';
 
 function App() {
   return (

@@ -45,7 +45,6 @@ function LayoutFlow() {
       proOptions={proOptions}
       onNodesChange={onNodesChange}
       onEdgesChange={onEdgesChange}
-      className="bg-teal-50"
     >
       <Controls />
       <MiniMap />
