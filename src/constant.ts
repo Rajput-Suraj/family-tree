@@ -14,4 +14,5 @@ export const initialNodes: Node[] = [
 export const initialEdges: Edge[] = [
   { id: 'edge-1', source: 'node-1', target: 'node-3', sourceHandle: 'a' },
   { id: 'edge-2', source: 'node-2', target: 'node-3', sourceHandle: 'a' },
+  { id: 'edge-3', source: 'node-3', target: 'node-4', sourceHandle: 'b' },
 ];
